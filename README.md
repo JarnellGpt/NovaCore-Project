@@ -53,8 +53,8 @@
 We are building and releasing supporting assets for better understanding and presentation of NovaCore:
 
 - ✅ Title Slide Visual / Logo
-- 🌀 Reactor Concept Diagram *(Coming Soon)*
-- 🗺️ Timeline Roadmap Graphic *(In Progress)*
+- 🌀 Reactor Concept Diagram (![NovaCore Reactor Diagram](./assets/reactor_diagram.png)
+- 🗺️ Timeline Roadmap Graphic (![NovaCore Timeline](./assets/novacore_roadmap.png)
 - 📊 Icons & Infographics for Deck *(Ongoing)*
 
 All assets will be published in `/assets/` or embedded directly in the deck.
