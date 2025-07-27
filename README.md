@@ -23,9 +23,14 @@
 | Asset | Status |
 |-------|--------|
 | 📘 Vision Proposal PDF | ✅ Completed |
-| 📊 Pitch Deck | 🛠 In Progress |
-| 🧠 Concept Diagrams | ⚙️ Next Step |
+| 📊 Pitch Deck (PDF) | ✅ Completed |
+| 🧠 Concept Diagrams | 🛠 In Progress |
 | 🧪 Simulation Path (Python) | 🧭 Exploring |
+
+---
+
+## 🖼️ Visual Pitch Deck
+- [NovaCore_Pitch_Deck.pdf](./docs/NovaCore_Pitch_Deck.pdf) – A visual presentation of the concept, strategy, and vision.
 
 ---
 
@@ -40,6 +45,19 @@
 - GPT-4 for iterative design and planning
 - Fusion fuels: Deuterium, Tritium, Boron-11
 - Containment: Magnetic coils, laser ignition, pellet injection
+
+---
+
+## 🖼️ Visual Assets
+
+We are building and releasing supporting assets for better understanding and presentation of NovaCore:
+
+- ✅ Title Slide Visual / Logo
+- 🌀 Reactor Concept Diagram *(Coming Soon)*
+- 🗺️ Timeline Roadmap Graphic *(In Progress)*
+- 📊 Icons & Infographics for Deck *(Ongoing)*
+
+All assets will be published in `/assets/` or embedded directly in the deck.
 
 ---
 
